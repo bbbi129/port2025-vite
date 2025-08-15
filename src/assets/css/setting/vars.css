@@ -3,13 +3,15 @@
   --mainKor-font: "nanumSquareNeo";
   --mainNum-font: "gmarket";
 
-  --mainBg-color: #f3ede8;
-  --subBg100: #cdc0b1;
-  --subBg200: #afa395;
-  --subBg300: #81887c;
-  --subBg400: #afa7a2;
-  --subBg500: #a6afa2;
+  --mainBg-color: #f9f7f3;
+  --subBg100: #d4dcd9;
+  --subBg200: #b9c9c3;
+  --subBg300: #879590;
+  --subBg400: #6e7c77;
+  --subBg500: #55635f;
 
+  --pink: #ffdadb;
+  --green: #3f9981;
   --white: #fff;
   --black: #000;
   --black100: #2b2b2b;
